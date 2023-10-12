@@ -17,4 +17,12 @@ public class GITHUB_TEST {
         System.out.println("Hello World!");
     }
     
+    public int function1(int x) {
+        return x + 1;
+    }
+    
+    public int function2(int x) {
+        return x + 2;
+    }
+    
 }
